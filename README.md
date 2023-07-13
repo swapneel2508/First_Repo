@@ -1,14 +1,29 @@
 GIT AND GITHUB
 ===============
-Tables
----------------------------
+#GIT and GITHUB
+ - Step 1 : **Creating a local repositiory***:
+ Navigate to your project directory
+ ```
+cd <my_app>
 
-Item | Value
--------- | -----
-Computer | $1600
-Phone | $12
-Pipe | $1 
+```
+- Step 2 : ** Initiialize a new Git Repository**
+```
+ git init
 
-| Column 1 | Column 2 |
-|:--------:| -------------:|
-| centered | right-aligned |
+```
+- Step 3 : ** Adding files to the Repository **
+```
+    git add file_name
+    git add .
+    // the '.' rp
+
+```
+
+- Srep 4:
+
+-Step 5: ** Create a Remote Repo**
+
+-Step 6: **Conncet my local repo to the Remote repo
+
+
